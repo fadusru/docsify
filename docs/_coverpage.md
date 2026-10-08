@@ -4,6 +4,6 @@
 
 # Docsify
 
-[Документация](/resources/README.md)
+[Документация](/README.md)
 [Официальный сайт](https://docsify.js.org)
 [Исходный код](https://github.com/docsifyjs/docsify/)
