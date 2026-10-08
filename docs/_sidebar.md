@@ -1,7 +1,7 @@
 <!-- _sidebar.md -->
 
 * [На главную](/)
-* [О проекте](/resources/README.md)
+* [О проекте](/README.md)
 * [Установка](/resources/install.md)
 * [Создание проекта](/resources/create_project.md)
 * [Запуск проекта](/resources/run_project.md)
