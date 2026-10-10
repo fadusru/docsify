@@ -1,6 +1,6 @@
 <!-- _navbar.md -->
 
 * Languages
-  * [Русский](/resources/README.md)
+  * [Русский](/README.md)
   * [English](/resources/en/README.md)
 * [Официальная документация](https://docsify.js.org)
